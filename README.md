@@ -10,9 +10,9 @@
 
 ## 🔥 精选 3 个仓库
 
-- **[sensenova-gateway](./sensenova-gateway/)** — 零依赖本地 OpenAI 兼容网关，多 key 轮询 + 429/401 冷却 + 16 项自测
-- **[prompt-craft](./prompt-craft/)** — AI 提示词写法库（图像+视频），通用铁律 6 条 + 九要素结构 + 三大治法 + 塔塔体系
-- **[kb-cli](./kb-cli/)** — 零依赖本地知识库检索，多子库 × 多层架构，UTF-8 强制输出
+- **[sensenova-gateway](https://github.com/Babymrbbbb/my-sensenova-gateway)** — 零依赖本地 OpenAI 兼容网关，多 key 轮询 + 429/401 冷却 + 16 项自测
+- **[prompt-craft](https://github.com/Babymrbbbb/prompt-craft)** — AI 提示词写法库（图像+视频），通用铁律 6 条 + 九要素结构 + 三大治法 + 塔塔体系
+- **[kb-cli](https://github.com/Babymrbbbb/kb-cli)** — 零依赖本地知识库检索，多子库 × 多层架构，UTF-8 强制输出
 
 ## 🎯 我做什么
 
