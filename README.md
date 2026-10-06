@@ -4,13 +4,14 @@
 
 ---
 
-## 🔥 精选 3 个仓库
+## 🔥 精选 4 个仓库
 
 | 仓库 | 定位 | 亮点 |
 |---|---|---|
 | **[sensenova-gateway](https://github.com/Babymrbbbb/sensenova-gateway)** | AI 配额网关 | 零依赖、多 key 轮询、429/401 冷却、16 项自测 |
 | **[prompt-craft](https://github.com/Babymrbbbb/prompt-craft)** | 提示词方法论 | 九要素结构、三大治法、叙事方法论 |
 | **[kb-cli](https://github.com/Babymrbbbb/kb-cli)** | 知识库检索 | 多子库 × 多层、自动同步聊天记录、UTF-8 强制 |
+| **[ai-native-team](https://github.com/Babymrbbbb/ai-native-team)** | AI 原生组织 OS | 智能路由、任务拆解 SOP、决策边界、44 自动化 |
 
 ## 🎯 我做什么
 
