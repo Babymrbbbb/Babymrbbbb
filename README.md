@@ -6,7 +6,7 @@
 
 ## 🔥 精选 4 个仓库
 
-| 仓库 | 定位 | 岗位关键词 | 亮点 |
+| 仓库 | 定位 | 技术关键词 | 亮点 |
 |---|---|---|---|
 | **[sensenova-gateway](https://github.com/Babymrbbbb/sensenova-gateway)** | 统一模型调用层 | 多模型路由 / 配额调度 / 限流降级 | 零依赖、多 key 轮询、429/401 冷却、16 项自测 |
 | **[prompt-craft](https://github.com/Babymrbbbb/prompt-craft)** | Prompt 工程 | 模板体系 / few-shot 调优 / 效果评测 | 九要素结构、三大治法、叙事方法论 |
