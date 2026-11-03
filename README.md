@@ -10,12 +10,15 @@
 | 终端会员 | 20 万+ |
 | 自动化任务 | 44 条每天在跑 |
 | 会员复购 | 月均提升 13% |
-| 公开项目 | 5 个 |
+| 公开项目 | 6 个 |
 
 **精选项目（解决什么问题 → 什么结果）**：
+- **[swan_kb](https://github.com/Babymrbbbb/swan_kb)**：全栈知识库问答系统（FastAPI + RAG）→ 数据护栏、自愈索引、评测闭环
 - **[sensenova-gateway](https://github.com/Babymrbbbb/sensenova-gateway)**：多账号多模型难管理、单 key 限流 → 一个端点统一调用，44 条自动化稳定运行
+- **[prompt-craft](https://github.com/Babymrbbbb/prompt-craft)**：提示词工程 → 九要素结构、跨模态实战、效果评测
 - **[llm-wiki](https://github.com/Babymrbbbb/llm-wiki)**：1,600+ 篇散落资料无法检索 → 编译为可导航知识库，RAG 双路召回，评测通过率 100%
 - **[ai-native-team](https://github.com/Babymrbbbb/ai-native-team)**：AI 输出没人把关 → 双模型隔离校验，45 份任务单闭环
+- **全域数据整合系统**：47 家门店数据分散、口径不一 → 唯一真相源，店长验收闭环（生产环境落地）
 
 完整落地复盘见下方正文。
 
