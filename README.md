@@ -474,5 +474,5 @@ AI 可以替我做「分析和执行」，但不能替我做「判断和责任�
 
 - 邮箱：358368437@qq.com
 - 微信：Edward_bei
-- 作品集：https://Babymrbbbb.github.io
+- 站点：https://Babymrbbbb.github.io
 - 完整复盘：https://Babymrbbbb.github.io/article.html
